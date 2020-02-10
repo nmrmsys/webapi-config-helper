@@ -1,0 +1,34 @@
+{
+  "name": "webapi-config-helper",
+  "version": "0.0.1",
+  "description": "HTTP client wrapper with config helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmrmsys/webapi-config-helper.git"
+  },
+  "keywords": [
+    "fetch",
+    "xhr",
+    "ajax",
+    "ky",
+    "axios",
+    "webapi",
+    "config",
+    "helper"
+  ],
+  "author": "Masayoshi Nomura <nmrmsys@gmail.com> (http://github.com/nmrmsys)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmrmsys/webapi-config-helper/issues"
+  },
+  "homepage": "https://github.com/nmrmsys/webapi-config-helper#readme",
+  "dependencies": {
+    "ky": "^0.16.2",
+    "ky-universal": "^0.3.0"
+  },
+  "devDependencies": {}
+}
